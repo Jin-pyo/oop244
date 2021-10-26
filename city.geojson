@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "features": [
       {
+        "type": "Feature",
         "geometry": {
-          "type": "Point",
+          "type": "triangle",
           "coordinates": [126.9783, 37.5985]
         },
         "properties": {
