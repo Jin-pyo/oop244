@@ -23,52 +23,6 @@
           "accentcity": "Seoul",
           "population": 10323448
         }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.0347188,
-          35.21082192
-        ]
-      },
-      "properties": {
-        "city": "osakasayama",
-        "country": "jp",
-        "region": "32",
-        "geopoint": [
-          35.21082192,
-          129.0347188
-        ],
-        "longitude": 129.0347188,
-        "latitude": 35.21082192,
-        "accentcity": "Osakasayama",
-        "population": 57170
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.562978,
-          34.516855
-        ]
-      },
-      "properties": {
-        "city": "osakasayama",
-        "country": "jp",
-        "region": "32",
-        "geopoint": [
-          34.516855,
-          135.562978
-        ],
-        "longitude": 135.562978,
-        "latitude": 34.516855,
-        "accentcity": "Osakasayama",
-        "population": 57170
-      }
     }
   ]
 }
