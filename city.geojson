@@ -11,9 +11,6 @@
           ]
         },
         "properties": {
-          "city": "seoul",
-          "country": "kr",
-          "region": "11",
           "geopoint": [
             37.5985,
             126.9783
