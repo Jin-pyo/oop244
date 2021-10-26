@@ -1,28 +1,51 @@
 {
-"type": "FeatureCollection",
-"features": [
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-126.9783,
-37.5985
-]
-},
-"properties": {
-"city": "seoul",
-"country": "kr",
-"region": "11",
-"geopoint": [
-37.5985,
-200.9783
-],
-"longitude": 150.9783,
-"latitude": 40.5985,
-"accentcity": "Seoul",
-"population": 10323448
-}
-}
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783,
+          37.5985
+        ]
+      },
+      "properties": {
+        "city": "seoul",
+        "country": "kr",
+        "region": "11",
+        "geopoint": [
+          37.5985,
+          126.9783
+        ],
+        "longitude": 126.9783,
+        "latitude": 37.5985,
+        "accentcity": "Seoul",
+        "population": 10323448
+      }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9783,
+          37.5985
+        ]
+      },
+      "properties": {
+        "city": "seoul",
+        "country": "kr",
+        "region": "11",
+        "geopoint": [
+          37.5985,
+          126.9783
+        ],
+        "longitude": 129.0347,
+        "latitude": 35.21082
+        "accentcity": "Seoul",
+        "population": 10323448
+      }
+    }
+  ]
 }
