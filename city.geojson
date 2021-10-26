@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
       {
         "type": "Feature",
         "geometry": {
@@ -24,7 +23,6 @@
           "accentcity": "Seoul",
           "population": 10323448
         }
-      },
     },
     {
       "type": "Feature",
