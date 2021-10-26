@@ -29,22 +29,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9783,
-          37.5985
+          135.562978,
+          34.516855
         ]
       },
       "properties": {
-        "city": "seoul",
-        "country": "kr",
-        "region": "11",
+        "city": "osakasayama",
+        "country": "jp",
+        "region": "32",
         "geopoint": [
-          38.5985,
-          127.9783
+          34.516855,
+          135.562978
         ],
-        "longitude": 129.0347,
-        "latitude": 35.21082
-        "accentcity": "Seoul",
-        "population": 10323448
+        "longitude": 135.562978,
+        "latitude": 34.516855,
+        "accentcity": "Osakasayama",
+        "population": 57170
       }
     }
   ]
