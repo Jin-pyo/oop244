@@ -24,7 +24,7 @@
         "population": 10323448
       }
     },
-     {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -38,8 +38,8 @@
         "country": "kr",
         "region": "11",
         "geopoint": [
-          37.5985,
-          126.9783
+          38.5985,
+          127.9783
         ],
         "longitude": 129.0347,
         "latitude": 35.21082
