@@ -4,7 +4,7 @@
       {
         "type": "Feature",
         "geometry": {
-          "type": "triangle",
+          "type": "Point",
           "coordinates": [126.9783, 37.5985]
         },
         "properties": {
